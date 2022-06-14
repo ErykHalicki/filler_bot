@@ -1,0 +1,18 @@
+1. create screen object
+2. make seperate file for logical processing, just pass inputs from screen
+-> logic/game file
+3. create board input file
+4. Read board input file 
+5. create game rules
+6. test with basic alternating turns
+7. write basic bot, whcih selects random colors
+8. create basic point counter for each side
+9. make game board state object 
+10. each game board state has a binary tree node style array of its 
+possible game states
+11. create game state tree with minmax algorithm
+12. chose the node with the greatest final score
+13. if multiple nodes have the same outcome, pick the one with the 
+shortest depth (least moves)
+14. if there are identical paths, just randomly select one
+  

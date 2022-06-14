@@ -1,0 +1,7 @@
+R,G,P,R,B,P,Y,R
+P,B,G,b,G,R,B,Y
+B,Y,b,G,b,G,P,Y
+P,R,G,R,P,R,G,B
+R,P,R,b,B,G,P,Y
+B,G,b,R,Y,P,Y,G
+G,R,B,P,G,Y,P,B
