@@ -8,4 +8,4 @@ The bot is practically unbeatable as far as i know, since its search depth doesn
 
 In the example below, the program starts in the bottom left corner and I start in the top right
 
-![](https://github.com/Stargor14/filler_bot/blob/master/demo.gif)
+![](demo.gif)
