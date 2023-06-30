@@ -6,4 +6,6 @@ The premise of the game is that the 2 players start on opposite corners of the b
 
 The bot is practically unbeatable as far as i know, since its search depth doesnt have to be particualrly high to calculate every possible game outcome from the start.
 
+In the example below, the program starts in the bottom left corner and I start in the top right
+
 ![](https://github.com/Stargor14/filler_bot/blob/master/demo.gif)
